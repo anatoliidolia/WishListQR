@@ -40,5 +40,9 @@ After installation, run the following commands:
 
 The "QR WishList" module is designed to make the process of sharing your wish list more convenient and efficient for you and your customers.
 
-Magento 2.4.6
-Magento 2.4.6.p1-p3
+
+
+
+**Magento 2.4.6**
+
+**Magento 2.4.6.p1-p3**
