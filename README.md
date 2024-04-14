@@ -18,5 +18,27 @@ The "QR WishList" module offers a simple and convenient way to share your wish l
 - Increases engagement and usability of your online store.
 
 
+**Installation:**
+
+To install the module, use the following console command:
+
+
+`composer require peachcode/wishlistqr:dev-main`
+
+
+**Additionally**, the following package will be installed along with this module:
+
+`chillerlan/php-qrcode`
+
+After installation, run the following commands:
+
+`php bin/magento setup:upgrade`
+
+`php bin/magento setup:static-content:deploy`
+
+
+
 The "QR WishList" module is designed to make the process of sharing your wish list more convenient and efficient for you and your customers.
 
+Magento 2.4.6
+Magento 2.4.6.p1-p3
