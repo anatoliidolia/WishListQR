@@ -5,7 +5,7 @@
     "homepage": "https://github.com/anatoliidolia/WishListQR",
     "require": {
         "php": "~8.1.0||~8.2.0",
-        "chillerlan/php-qrcode": "^2.5"
+        "chillerlan/php-qrcode": "^3.0"
     },
     "type": "magento2-module",
     "minimum-stability": "dev",
