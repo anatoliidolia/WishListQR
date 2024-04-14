@@ -41,6 +41,16 @@ After installation, run the following commands:
 The "QR WishList" module is designed to make the process of sharing your wish list more convenient and efficient for you and your customers.
 
 
+**How to enable module?**
+
+**Admin->Stores->Configurations->CUSTOMERS->Wish List->My Wish List Link**->Display QR Code For Customer -> **YES**
+
+![img.png](img.png)
+
+
+Result on wish list page:
+
+![result.jpg](result.jpg)
 
 
 **Magento 2.4.6**

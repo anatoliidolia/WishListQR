@@ -5,9 +5,11 @@ use Magento\Wishlist\Block\Customer\Wishlist\Items;
 
 $columns = $block->getColumns();
 ?>
-<div class="qrcode-block">
-    <?= $block->getWishListImage() ?>
-</div>
+<?php if (count($block->getItems())) : ?>
+    <div class="qrcode-block">
+        <?= $block->getWishListImage() ?>
+    </div>
+<?php endif; ?>
 
 <div class="products-grid wishlist">
     <?php if (count($block->getItems())) : ?>
