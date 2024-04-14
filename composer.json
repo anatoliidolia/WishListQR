@@ -1,13 +1,17 @@
 {
     "name": "peachcode/wishlistqr",
     "description": "The QR WishList module is designed to make the process of sharing your wish list more convenient and efficient for you and your customers.",
+    "keywords": ["magento", "magento2 extension", "magento 2 extension", "extension", "module", "magento2 module", "magento 2 module"], 
+    "homepage": "https://github.com/anatoliidolia/WishListQR",
     "require": {
         "php": "~8.1.0||~8.2.0",
         "magento/framework": "100.0.*|100.1.*|101.0.*|102.0.*",
         "chillerlan/php-qrcode": "^2.5"
     },
     "type": "magento2-module",
+    "minimum-stability": "dev",
     "version": "1.0.0",
+    "prefer-stable": true,
     "license": [
         "OSL-3.0",
         "AFL-3.0"
@@ -28,3 +32,4 @@
         }
     }
 }
+
